@@ -1,0 +1,36 @@
+.carousel-item {
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  .carousel-image {
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .carousel-info {
+    padding: 10px;
+  }
+  
+  .slick-prev, .slick-next {
+    font-size: 24px;
+    z-index: 1;
+    color: #000;
+  }
+  
+  .slick-prev {
+    left: -25px;
+  }
+
+  
+  .slick-next {
+    right: -25px;
+  }
+
+  
+  .h1{
+    text-align: center;
+    margin-top: 40px;
+  }
